@@ -9,7 +9,7 @@ metadata:
   namespace: phanins
 spec:
   containers:
-  - image: phaniraj163/phanieywebapp2:latest
+  - image: phaniazureregistry.azurecr.io/eywebapptest:5
     name: day4phanipod11
     ports:
      - containerPort: 80
